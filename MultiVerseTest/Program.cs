@@ -6,7 +6,7 @@ namespace MultiVerseTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, WorldA!");
+            Console.WriteLine("Hello, World Master!");
         }
     }
 }
